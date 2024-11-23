@@ -1,0 +1,25 @@
+.Landing-gif {
+	border: 3px solid rgb(252, 249, 243);
+	border-radius: 3px;
+}
+
+.Landing-btn {
+	border: none;
+	border-radius: 5px;
+	background-color: #047bfe;
+	color: white;
+}
+
+.Landing-start-btn {
+	background-color: rgb(170, 252, 6);
+	font-size: 1rem;
+	color: black;
+}
+
+.Landing-btn:hover,
+.Landing-btn:focus,
+.Landing-btn:active {
+	outline: 0;
+	transform: scale(0.9);
+	background-color: blueviolet;
+}
